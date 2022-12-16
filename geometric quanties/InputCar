@@ -1,0 +1,15 @@
+&input
+natom			= 6000,
+inifram                 = 10000,
+nfram			= 29000,
+nwater		        = 2000,
+R_OO			= 3.5,
+theta_HOO	        = 30.0,
+nt		        = 500,
+tstep			= 0.1,
+ts                      = 20,
+Package		        ='tinker', 
+gromacsfile		='water.gro',
+tinkerfile		='spce.arc',
+Lzq_SSP_CF              =.FALSE.,
+/

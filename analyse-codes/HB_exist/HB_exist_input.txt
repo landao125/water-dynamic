@@ -1,0 +1,9 @@
+&input
+natom	    = 51559,
+npatom      = 359,
+nfram	    = 20000,
+nsite       = 4,                   
+n_initial   = 15000,
+nts 	    = 1000,
+tstep       = 0.1
+/

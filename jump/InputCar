@@ -1,0 +1,12 @@
+&input
+natom			= 2703,
+nfram			= 10001,
+nwater		= 901,
+R_OO			= 3.1,
+theta_HOO	= 20.0,
+nt				= 1000,
+tstep			= 0.01,
+Package		= 'gromacs', 
+gromacsfile		='water.gro',
+tinkerfile		='',
+/
